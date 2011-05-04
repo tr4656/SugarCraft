@@ -1,4 +1,4 @@
-package com.icebrg.sugarcraft;
+package us.icebrg.sugarcraft;
 
 import java.util.HashMap;
 import org.bukkit.entity.Player;
