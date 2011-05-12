@@ -1,3 +1,5 @@
+package us.icebrg.sugarcraft;
+
 //import java.awt.Color;
 //import java.io.File;
 import java.util.HashMap;

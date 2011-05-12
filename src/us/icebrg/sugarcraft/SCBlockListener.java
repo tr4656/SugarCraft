@@ -1,5 +1,5 @@
-import org.bukkit.Block;
-import org.bukkit.BlockFace;
+package us.icebrg.sugarcraft;
+
 import org.bukkit.Material;
 import org.bukkit.event.block.BlockCanBuildEvent;
 import org.bukkit.event.block.BlockListener;

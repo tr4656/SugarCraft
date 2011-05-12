@@ -1,3 +1,5 @@
+package us.icebrg.sugarcraft;
+
 //import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.event.player.PlayerChatEvent;
